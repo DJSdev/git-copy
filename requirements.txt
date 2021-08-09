@@ -10,7 +10,7 @@ gitdb2==2.0.6
 GitPython==3.0.5
 idna==2.8
 pycparser==2.19
-pywin32==224
+pywin32==301
 requests==2.22.0
 six==1.12.0
 smmap2==2.0.5
